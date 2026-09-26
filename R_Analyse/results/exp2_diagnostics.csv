@@ -1,0 +1,4 @@
+"test","statistic","df_num","df_denom","p"
+"slope_heterogeneity",3.45047964686524,8,744,0.000649549471835997
+"studentized_Breusch_Pagan",152.839707468989,9,,2.27477883850308e-28
+"quadratic_pretest",1.98334755779788,1,751,0.159452027240551

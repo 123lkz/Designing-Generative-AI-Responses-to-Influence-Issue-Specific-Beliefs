@@ -1,0 +1,29 @@
+"check","passed"
+"PBS_exp1_for_R.csv unique IDs and complete cells",TRUE
+"CFI_exp1_for_R.csv unique IDs and complete cells",TRUE
+"BCIS_exp1_for_R.csv unique IDs and complete cells",TRUE
+"PBS 160 participants and 32 per condition",TRUE
+"PBS IDs, groups and covariates match PBS",TRUE
+"CFI 160 participants and 32 per condition",TRUE
+"CFI IDs, groups and covariates match PBS",TRUE
+"BCIS 160 participants and 32 per condition",TRUE
+"BCIS IDs, groups and covariates match PBS",TRUE
+"Experiment 1 PBS total range 10-70",TRUE
+"pbs change = post - pre",TRUE
+"cfi_alternatives change = post - pre",TRUE
+"cfi_control change = post - pre",TRUE
+"bcis_total change = post - pre",TRUE
+"bcis_reflection change = post - pre",TRUE
+"bcis_certainty change = post - pre",TRUE
+"PBS_exp2_for_R.csv unique IDs and complete cells",TRUE
+"Experiment 2 762 participants; 254 per condition",TRUE
+"Experiment 2 topic allocation",TRUE
+"Experiment 2 change = post - pre",TRUE
+"Experiment 2 PBS total range 10-70",TRUE
+"Experiment 1 open-response groups and nonblank codes",TRUE
+"Experiment 1 unique response-question keys",TRUE
+"Experiment 2 open-response topic labels",TRUE
+"Experiment 2 open-response groups and nonblank codes",TRUE
+"Experiment 2 unique response-question keys",TRUE
+"Experiment 1 final codes: 160 x 4 records",TRUE
+"Experiment 2 final codes: 762 x 4 records",TRUE

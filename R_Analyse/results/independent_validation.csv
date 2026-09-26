@@ -1,0 +1,60 @@
+check,max_absolute_error,tolerance,passed
+pbs pre ANOVA,2.3939183968479938e-15,1e-08,True
+pbs post ANOVA,7.993605777301127e-15,1e-08,True
+pbs change ANOVA,2.020605904817785e-14,1e-08,True
+pbs post regression summary,1.1546319456101628e-14,1e-08,True
+pbs post regression coefficients,2.220446049250313e-13,1e-08,True
+pbs change regression summary,6.217248937900877e-15,1e-08,True
+pbs change regression coefficients,2.984279490192421e-13,1e-08,True
+cfi_alternatives pre ANOVA,4.4825254619240695e-15,1e-08,True
+cfi_alternatives post ANOVA,7.771561172376096e-16,1e-08,True
+cfi_alternatives change ANOVA,2.275957200481571e-15,1e-08,True
+cfi_alternatives post regression summary,7.105427357601002e-15,1e-08,True
+cfi_alternatives post regression coefficients,2.55351295663786e-14,1e-08,True
+cfi_alternatives change regression summary,4.884981308350689e-15,1e-08,True
+cfi_alternatives change regression coefficients,1.7408297026122455e-13,1e-08,True
+cfi_control pre ANOVA,1.3877787807814457e-17,1e-08,True
+cfi_control post ANOVA,1.3322676295501878e-15,1e-08,True
+cfi_control change ANOVA,3.774758283725532e-15,1e-08,True
+cfi_control post regression summary,3.552713678800501e-15,1e-08,True
+cfi_control post regression coefficients,3.907985046680551e-14,1e-08,True
+cfi_control change regression summary,4.440892098500626e-16,1e-08,True
+cfi_control change regression coefficients,8.171241461241152e-14,1e-08,True
+bcis_total pre ANOVA,1.97758476261356e-15,1e-08,True
+bcis_total post ANOVA,3.4416913763379853e-15,1e-08,True
+bcis_total change ANOVA,4.107825191113079e-15,1e-08,True
+bcis_total post regression summary,4.618527782440651e-14,1e-08,True
+bcis_total post regression coefficients,5.417888360170764e-14,1e-08,True
+bcis_total change regression summary,8.881784197001252e-16,1e-08,True
+bcis_total change regression coefficients,4.3520742565306136e-14,1e-08,True
+bcis_reflection pre ANOVA,4.676814491233472e-15,1e-08,True
+bcis_reflection post ANOVA,6.439293542825908e-15,1e-08,True
+bcis_reflection change ANOVA,9.43689570931383e-15,1e-08,True
+bcis_reflection post regression summary,2.1316282072803006e-14,1e-08,True
+bcis_reflection post regression coefficients,1.6653345369377348e-14,1e-08,True
+bcis_reflection change regression summary,8.881784197001252e-16,1e-08,True
+bcis_reflection change regression coefficients,3.197442310920451e-14,1e-08,True
+bcis_certainty pre ANOVA,5.7592819402429996e-15,1e-08,True
+bcis_certainty post ANOVA,2.55351295663786e-15,1e-08,True
+bcis_certainty change ANOVA,3.3306690738754696e-16,1e-08,True
+bcis_certainty post regression summary,3.552713678800501e-15,1e-08,True
+bcis_certainty post regression coefficients,3.197442310920451e-14,1e-08,True
+bcis_certainty change regression summary,5.995204332975845e-15,1e-08,True
+bcis_certainty change regression coefficients,3.2862601528904634e-14,1e-08,True
+exp1_pbs_post_dunnett p,3.0011591646457447e-06,5e-05,True
+exp1_pbs_post_dunnett simultaneous CI,2.6963575219696168e-05,0.0005,True
+exp1_pbs_ancova_dunnett p,5.055906372498226e-06,5e-05,True
+exp1_pbs_ancova_dunnett simultaneous CI,2.4372929219751427e-05,0.0005,True
+exp2_primary_omnibus,3.090860900556436e-13,1e-08,True
+exp2_primary_means,1.1368683772161603e-13,1e-08,True
+exp2_primary_contrasts,4.196643033083092e-14,1e-08,True
+exp2_primary_within_topic_contrasts,5.46229728115577e-14,1e-08,True
+exp2_gain_means,3.197442310920451e-14,1e-08,True
+exp2_gain_omnibus,3.268496584496461e-13,1e-08,True
+exp2_gain_contrasts,4.529709940470639e-14,1e-08,True
+exp1_open_targeted_fisher,2.498001805406602e-16,1e-08,True
+exp1_open_targeted_fisher Holm,4.996003610813204e-16,1e-08,True
+exp2_open_selected_categories,4.662069341687669e-17,1e-08,True
+exp2_open_selected_categories Holm,8.413408858487514e-17,1e-08,True
+exp2 open content_nonblank,4.085620730620576e-14,1e-08,True
+exp2 open response_rate,3.907985046680551e-14,1e-08,True
